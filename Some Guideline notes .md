@@ -26,4 +26,4 @@ Anyways these are the directories where all the relevant files are placed:
 ├── platformio.ini
 └── sdkconfig.esp32doit-devkit-v1
 
-To all the viewers and evaluators out there, I hope you like my project.
+To all the viewers and evaluators out there, I hope you like my project..
